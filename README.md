@@ -103,7 +103,7 @@ pre-commit install -t commit-msg
 
 ## Commit Messages
 
-This repository follows the [afcmf](https://scm.dazzlingwrench.fxinnovation.com/fxinnovation-public/pre-commit-afcmf) standard for it's commit messages.
+This repository follows the [afcmf](https://github.com/FXinnovation/fx-pre-commit-afcmf) standard for it's commit messages.
 
 ## Changelog
 
